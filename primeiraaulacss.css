@@ -1,0 +1,60 @@
+/*
+Seletor: quem eu quero mexer;
+Atributo: no que eu quero mexer;
+Valor: como eu quero mexer no atributo.
+
+SEMPRE COLOCAR "link" NO COMEÇO DE TODOS OS ARQUIVO CSS
+
+Exemplo:
+"Quero que o parágrafo fique da cor vermelha"
+
+Seletor: parágrafo
+Atributo: cor
+Valor: vermelha
+*/
+
+p{
+    color: rgb(0, 0, 0); 
+    font-size: 16px;
+    font-family: arial;
+     background-color: rgba(250, 82, 242, 0.733);
+     text-align: center;
+     text-align: justify;
+     border: 5px outset rgb(56, 4, 199);
+     margin: 2px;
+     padding: 10px;
+     border-radius: 7px;
+     width: 650px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 42px;
+    font-family: cursive;
+    text-align: center;
+    border: 15px ridge rgb(70, 21, 1);
+    background-color: rgb(37, 129, 9);
+    border-radius: 8px;
+    padding: 8px;
+    width: 650px;
+}
+hr{
+    border: ridge rgb(1, 85, 180) 6px ;
+    width: 650px;
+}
+
+body{ background-color: rgb(136, 255, 0);
+    text-align: center;
+
+}
+img{
+    border: 15px ridge rgb(6, 190, 98);
+    width: 650px;
+    height: 200px;
+}
+
+/*
+É possível colocar borda em apeas um lado, basta esrever os lados em inglês.
+*/
+/*
+ Pesquisar (se quiser) por CSS border styles no google para encontrar a borda certa para o texto.
+ */
