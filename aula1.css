@@ -1,0 +1,44 @@
+img.subarupng{
+    width:100% ;
+    height: ;
+    margin: 15px;
+}
+
+h1{
+text-align: center;
+color: rgb(18, 162, 2);
+font-family: sectar ;
+}
+
+p{
+border-bottom: 3px dashed rgb(3, 112, 30);
+padding-bottom:15px ;
+text-align: justify;
+font-family: typewriter ;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+@font-face {
+    font-family:"sectar" ;
+    src: url(Sectar.otf);
+}
+@font-face {
+    font-family: typewriter ;
+    src: url(JMH\ Typewriter.otf);
+}
+img.subarueseuspoderes{
+    height: 150px;
+   
+}
+div{
+    text-align: center;
+}
+
+img.haheueh{
+   margin-left: 54px ;
+   height: 150px;
+}
+
