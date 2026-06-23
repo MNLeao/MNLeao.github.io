@@ -1,0 +1,46 @@
+body{
+    background-color:   rgb(172, 125, 81);
+}
+h1{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin: 5px;
+}
+p{
+    color: aliceblue;
+      display: flex;
+    justify-content: center;
+    font-size: 23px;
+    margin: 10px;
+}
+h4{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    margin: 13px;
+}
+.papeldeparede{
+background-image: url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/323765100/original/7428186df98e6c58679c544b3d15e3e572f10112/midjourney-art-concept-food-photography-product-ai-image-prompt-midjourney-ai.png);
+width: 100%;
+height: 100vh;
+background-size: cover;
+background-position: center;
+z-index: -1;
+opacity: 0.3;
+position: fixed;
+top: 0;
+left: 0;
+}
+.carddomilho img{
+    height: 285px;
+    width: 285px;
+    border-radius: 15px;
+}
+.carddomilho{
+display: flex;
+align-items: center;
+ margin: 30px;
+ margin-top: 315px;
+}

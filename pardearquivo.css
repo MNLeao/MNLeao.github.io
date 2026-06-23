@@ -1,0 +1,26 @@
+.cards{
+display: flex;
+flex-wrap: wrap;
+gap: 20px;
+justify-content: center;
+}
+.card{
+display: flex;
+flex-direction: column;
+background-color: gray;
+padding: 10px;
+gap: 10px;
+border-radius: 10px;
+font-family: impact ;
+text-decoration: none;
+}
+.card img{
+width: 500px;
+height: 350px;
+border-radius: 20px;
+}
+.card span{
+text-align: center;
+color: black;
+font-size: 25px;
+}

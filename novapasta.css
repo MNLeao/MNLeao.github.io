@@ -1,0 +1,23 @@
+
+/* Tela grande (tipo: computador) */
+body{
+    background-color: black;
+
+}
+
+/* Tela média (tipo: tablet) */
+@media ( max-width: 1000px ){
+
+body{
+    background-color: red;
+}
+
+}
+/* Tela pequena (tipo: celular) */
+@media ( max-width: 500px ){
+
+body{
+    background-color: rgb(47, 0, 255);
+  }
+
+}
