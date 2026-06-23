@@ -5,14 +5,14 @@ h1{
     color: aliceblue;
     display: flex;
     justify-content: center;
-    font-size: 50px;
+    font-size: 67px;
     margin: 5px;
 }
 p{
     color: aliceblue;
       display: flex;
     justify-content: center;
-    font-size: 23px;
+    font-size: 30px;
     margin: 10px;
 }
 h4{
@@ -20,6 +20,7 @@ h4{
     display: flex;
     justify-content: center;
     margin: 13px;
+    font-size: 20px;
 }
 .papeldeparede{
 background-image: url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/323765100/original/7428186df98e6c58679c544b3d15e3e572f10112/midjourney-art-concept-food-photography-product-ai-image-prompt-midjourney-ai.png);
@@ -33,14 +34,38 @@ position: fixed;
 top: 0;
 left: 0;
 }
-.carddomilho img{
+.card img{
     height: 285px;
     width: 285px;
     border-radius: 15px;
 }
-.carddomilho{
-display: flex;
-align-items: center;
- margin: 30px;
- margin-top: 315px;
+.card img{
+    height: 285px;
+    width: 285px;
+    border-radius: 15px;
+}
+.card{
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    width: 285px;
+    height: 285px;
+    border-radius: 15px;
+    gap: 200px;
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    margin-top: 50px;
+    gap: 200px;
+}
+.papeldeparedepessego{
+background-image: url(https://mondiniplantas.cdn.magazord.com.br/img/2025/05/produto/6974/pessego-premier-enxertado.jpg?ims=800x800);
+width: 100%;
+height: 100vh;
+background-size: cover;
+background-position: center;
+z-index: -1;
+opacity: 0.3;
+position: fixed;
+top: 0;
+left: 0;
 }
