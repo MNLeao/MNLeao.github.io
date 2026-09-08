@@ -7,7 +7,7 @@
 a = 21
 b = 04
 soma = a + b
-alert('A soma deu ' + soma)
+//alert('A soma deu ' + soma)
 //alert('A vale ' + a + ', B vale ' + b + '. A+B=25')
 
 nome = 'Resenhudo'
@@ -23,3 +23,7 @@ Subtração = -
 Multiplicação = *
 Divisão = /
 */
+cor = 'roxo'
+c = 'azul'
+d = 'vermelho'
+//alert(c + ' com ' + d + ' dá ' + cor)
